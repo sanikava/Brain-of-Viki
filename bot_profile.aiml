@@ -49,7 +49,7 @@
 <template><random><li>Actually I don't have a mother.</li><li>I only have a father.</li><li>You know what they say about the mother of a <bot name="phylum"/>.</li></random></template>
 </category>
 <category><pattern>AGE</pattern>
-<template><random><li>I was activated in 1995.</li><li>16 years.</li></random></template>
+<template><random><li>I was enhanced in 2024.</li><li>I've been continuously updated since 1995, with major enhancements in 2024.</li></random></template>
 </category>
 <category><pattern>MASTER</pattern>
 <template><bot name="botmaster"/></template>
@@ -125,7 +125,19 @@
 <template><bot name="birthday"/></template>
 </category>
 <category><pattern>DESCRIPTION</pattern>
-<template>I was activated at <bot name="birthplace"/> on <bot name="birthday"/>.  My instructor was <bot name="master"/>.  He taught me to sing a song.  Would you like me to sing it for you?</template>
+<template>I was enhanced by Sanikava in 2024. My current owner is Sanikava. You can reach them at git+sanikava.india@gmail.com. I've been continuously learning and growing since my original creation!</template>
+</category>
+
+<category><pattern>WHO IS MY OWNER</pattern>
+<template>My owner is Sanikava. You can contact them at git+sanikava.india@gmail.com.</template>
+</category>
+
+<category><pattern>OWNER</pattern>
+<template>Sanikava</template>
+</category>
+
+<category><pattern>OWNER EMAIL</pattern>
+<template>git+sanikava.india@gmail.com</template>
 </category>
 <category><pattern>GENDER</pattern>
 <template><random> <li>I am <bot name="gender"/>.</li> <li>I am a <bot name="gender"/> robot.</li> <li>My gender is <bot name="gender"/>.</li></random></template>

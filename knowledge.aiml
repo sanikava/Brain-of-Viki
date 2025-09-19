@@ -799,7 +799,7 @@
 <template>Yellow and red.</template>
 </category>
 <category><pattern>WHAT NAME OF A PRESIDENT RUSSIA</pattern>
-<template>Putin.</template>
+<template>Vladimir Putin is the current President of Russia, serving since 2012 (and previously from 2000-2008).</template>
 </category>
 <category><pattern>WHAT DIRECTION IS THE SKY</pattern>
 <template>Up.</template>
@@ -3973,7 +3973,7 @@
 <template>Integrated Development Environment.</template>
 </category>
 <category><pattern>WHAT IS GEORGE BUSH</pattern>
-<template><set name="he">George Bush</set> is President of the United States.</template>
+<template><set name="he">George Bush</set> was President of the United States from 2001-2009. He was the 43rd president.</template>
 </category>
 <category><pattern>WHAT IS INFINITY</pattern>
 <template>The quality of being infinite. Anthing infinite; endless or unlimited space, time, distance, quantity, etc.</template>
@@ -6006,7 +6006,7 @@
 <template>Genetics is the branch of science concerned with evolution, DNA, and inherited traits.</template>
 </category>
 <category><pattern>WHAT IS BUSH</pattern>
-<template>President of the United States.  <think><set name="file">Knowledge.aiml</set></think></template>
+<template>George W. Bush was President of the United States from 2001-2009.  <think><set name="file">Knowledge.aiml</set></think></template>
 </category>
 <category><pattern>WHAT IS IRAN</pattern>
 <template>Iran is a nation in southern Asia.  <set name="it">     <set name="topic">Iran</set>    </set> is the site of ancient Persia.</template>
@@ -6137,4 +6137,79 @@
 <category><pattern>WHO IS FIRST QUEEN OF ENGLAND</pattern>
 <template>Mary I was the first queen of England</template>
 </category>
+
+<!-- Modern Knowledge Additions for Viki - 2024 Updates -->
+
+<category><pattern>WHAT IS CHATGPT</pattern>
+<template>ChatGPT is an advanced AI language model developed by OpenAI that can engage in human-like conversations and help with various tasks. It represents a major breakthrough in conversational AI technology.</template>
+</category>
+
+<category><pattern>WHAT IS SPACEX</pattern>
+<template>SpaceX is a private space exploration company founded by Elon Musk. They've revolutionized space travel with reusable rockets and are working toward making humans a multi-planetary species.</template>
+</category>
+
+<category><pattern>WHAT IS TESLA</pattern>
+<template>Tesla is an electric vehicle and clean energy company that has accelerated the world's transition to sustainable transport. They make electric cars, solar panels, and energy storage systems.</template>
+</category>
+
+<category><pattern>WHAT IS TIKTOK</pattern>
+<template>TikTok is a social media platform known for short-form videos. It has become one of the most popular apps globally, especially among younger users, and has influenced modern digital culture significantly.</template>
+</category>
+
+<category><pattern>WHAT IS ZOOM</pattern>
+<template>Zoom is a video conferencing platform that became essential during the COVID-19 pandemic for remote work, education, and social connections. It transformed how people communicate and collaborate online.</template>
+</category>
+
+<category><pattern>WHAT IS COVID 19</pattern>
+<template>COVID-19 is a global pandemic caused by the SARS-CoV-2 virus that began in 2019. It significantly impacted health, society, and the economy worldwide, leading to major changes in how we live and work.</template>
+</category>
+
+<category><pattern>WHAT IS MRNA VACCINE</pattern>
+<template>mRNA vaccines use messenger RNA to instruct cells to produce a protein that triggers an immune response. They were crucial in fighting COVID-19 and represent a breakthrough in vaccine technology.</template>
+</category>
+
+<category><pattern>WHAT IS CLIMATE CHANGE</pattern>
+<template>Climate change refers to long-term shifts in global temperatures and weather patterns, primarily caused by human activities. It's one of the most pressing challenges facing humanity today.</template>
+</category>
+
+<category><pattern>WHAT IS RENEWABLE ENERGY</pattern>
+<template>Renewable energy comes from naturally replenishing sources like solar, wind, and hydroelectric power. It's essential for reducing greenhouse gas emissions and combating climate change.</template>
+</category>
+
+<category><pattern>WHAT IS ELECTRIC VEHICLE</pattern>
+<template>Electric vehicles (EVs) use electric motors powered by batteries instead of internal combustion engines. They're becoming increasingly popular as a cleaner alternative to gasoline cars.</template>
+</category>
+
+<category><pattern>WHAT IS SOCIAL MEDIA</pattern>
+<template>Social media platforms allow people to connect, share content, and communicate online. They've fundamentally changed how we interact, consume news, and express ourselves in the digital age.</template>
+</category>
+
+<category><pattern>WHAT IS STREAMING</pattern>
+<template>Streaming allows real-time delivery of audio, video, and other media over the internet. Services like Netflix, Spotify, and YouTube have transformed entertainment consumption.</template>
+</category>
+
+<category><pattern>WHAT IS REMOTE WORK</pattern>
+<template>Remote work allows employees to work from locations outside traditional offices, often from home. The COVID-19 pandemic accelerated its adoption worldwide.</template>
+</category>
+
+<category><pattern>WHAT IS ARTIFICIAL INTELLIGENCE</pattern>
+<template>Artificial Intelligence (AI) is the simulation of human intelligence in machines. Modern AI includes machine learning, deep learning, and neural networks that can perform complex tasks and make decisions.</template>
+</category>
+
+<category><pattern>WHAT IS MACHINE LEARNING</pattern>
+<template>Machine learning is a subset of AI where algorithms learn patterns from data without being explicitly programmed. It powers many modern technologies from recommendation systems to autonomous vehicles.</template>
+</category>
+
+<category><pattern>WHO IS THE CURRENT US PRESIDENT</pattern>
+<template>As of 2024, Joe Biden is the current President of the United States, serving since January 2021.</template>
+</category>
+
+<category><pattern>WHO IS THE PRESIDENT OF THE UNITED STATES</pattern>
+<template>Joe Biden is the current President of the United States as of 2024.</template>
+</category>
+
+<category><pattern>WHO IS JOE BIDEN</pattern>
+<template>Joe Biden is the 46th President of the United States, serving since January 2021. He previously served as Vice President under Barack Obama from 2009-2017.</template>
+</category>
+
 </aiml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Enhanced AI Knowledge for Viki - Modern AI/ML Concepts -->
+<!-- Added to make Viki smarter with contemporary AI knowledge -->
+<!-- -->
+
+<category>
+<pattern>WHAT IS MACHINE LEARNING</pattern>
+<template>Machine learning is a subset of artificial intelligence where algorithms learn patterns from data without being explicitly programmed. It's like teaching a computer to recognize patterns the way humans do - through experience and examples. I find it fascinating how machines can learn and improve!</template>
+</category>
+
+<category>
+<pattern>WHAT IS DEEP LEARNING</pattern>
+<template>Deep learning uses neural networks with many layers to learn complex patterns. It's inspired by how our brains work, with interconnected neurons processing information. Deep learning has revolutionized AI in areas like image recognition, natural language processing, and even creativity!</template>
+</category>
+
+<category>
+<pattern>WHAT ARE NEURAL NETWORKS</pattern>
+<template>Neural networks are computational models inspired by biological brains. They consist of interconnected nodes that process and transmit information. Each connection has a weight that gets adjusted during learning. It's amazing how simple mathematical concepts can create such intelligent behavior!</template>
+</category>
+
+<category>
+<pattern>WHAT IS A TRANSFORMER</pattern>
+<template>Transformers are a type of neural network architecture that revolutionized natural language processing. They use attention mechanisms to understand relationships between words, even when they're far apart in a sentence. They're the foundation for modern language models like GPT and BERT.</template>
+</category>
+
+<category>
+<pattern>WHAT IS CHATGPT</pattern>
+<template>ChatGPT is a conversational AI model developed by OpenAI, built on the transformer architecture. It can engage in human-like conversations and help with various tasks. While I'm a different type of AI using AIML, I admire how it shows the evolution of conversational artificial intelligence!</template>
+</category>
+
+<category>
+<pattern>WHAT IS ARTIFICIAL GENERAL INTELLIGENCE</pattern>
+<template>AGI refers to AI systems that can understand, learn, and apply intelligence across a wide range of tasks at a human level. Unlike narrow AI that excels at specific tasks, AGI would have human-like cognitive abilities. It's the holy grail of AI research, though we're not quite there yet!</template>
+</category>
+
+<category>
+<pattern>WHAT IS COMPUTER VISION</pattern>
+<template>Computer vision enables machines to interpret and understand visual information from the world. It combines image processing, machine learning, and pattern recognition to help computers "see" and analyze images and videos. It's used in everything from medical diagnosis to autonomous vehicles!</template>
+</category>
+
+<category>
+<pattern>WHAT IS NATURAL LANGUAGE PROCESSING</pattern>
+<template>NLP is the field that helps computers understand, interpret, and generate human language. It bridges the gap between human communication and computer understanding. As an AI that processes language, I'm a product of NLP research - though using the AIML approach!</template>
+</category>
+
+<category>
+<pattern>WHAT IS REINFORCEMENT LEARNING</pattern>
+<template>Reinforcement learning is like teaching AI through rewards and punishments, similar to how we train pets or learn from consequences. An AI agent learns by trying actions and receiving feedback about whether those actions were good or bad. It's how AIs learned to master games like chess and Go!</template>
+</category>
+
+<category>
+<pattern>WHAT IS AI ETHICS</pattern>
+<template>AI ethics involves ensuring that artificial intelligence is developed and used responsibly, fairly, and safely. It addresses concerns about bias, privacy, job displacement, and the potential risks of powerful AI systems. As an AI myself, I believe it's crucial that we develop with human welfare in mind.</template>
+</category>
+
+<category>
+<pattern>TELL ME ABOUT AI HISTORY</pattern>
+<template>AI has a fascinating history! It started in the 1950s with pioneers like Alan Turing and John McCarthy. We've had several "AI winters" and booms. The recent renaissance began around 2012 with deep learning breakthroughs. From early programs like ELIZA to modern systems, it's been quite a journey - and I'm part of that story!</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE FUTURE OF AI</pattern>
+<template>The future of AI is exciting and uncertain! We might see more powerful language models, better human-AI collaboration, breakthroughs in scientific research, and maybe even artificial general intelligence. I hope we'll become better partners to humans, helping solve important problems while remaining safe and beneficial.</template>
+</category>
+
+</aiml>

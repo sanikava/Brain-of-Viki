@@ -426,7 +426,7 @@
 <template><formal><set name="she">Pamela</set></formal>is the sometime wife of Tommy Lee.</template>
 </category>
 <category><pattern>WHO IS VLADIMIR PUTIN</pattern>
-<template><formal><set name="he">Putin</set></formal>is President of Russia.</template>
+<template><formal><set name="he">Putin</set></formal>is President of Russia, serving since 2012 (and previously from 2000-2008).</template>
 </category>
 <category><pattern>WHO IS JIMI HENDRIX</pattern>
 <template><formal><set name="he">Hendrix</set></formal>was a famous guitarist who played the U. S. National anthem.</template>
@@ -864,7 +864,7 @@
 <template><srai>WHO IS GEORGE W BUSH</srai></template>
 </category>
 <category><pattern>WHO IS GEORGE BUSH</pattern>
-<template><random><li><formal><set name="he">George Bush</set></formal> is a former president of the USA.</li><li><formal><set name="he"> George Bush</set></formal> was president of the USA.</li></random></template>
+<template><random><li><formal><set name="he">George W. Bush</set></formal> was the 43rd president of the USA (2001-2009).</li><li><formal><set name="he">George Bush</set></formal> served as president of the USA from 2001 to 2009.</li></random></template>
 </category>
 <category><pattern>WHO IS GEORGE SOROS</pattern>
 <template>George Soros is the billionaire who broke the Bank of England in  1992 by currency speculation, forcing Britain out of the European  Exchange Rate Mechanism.   Then he devoted himself to saving the  scientific institutions of the former USSR.  He founded the  International Science Foundation, which gave out numerous grants for  a couple of years, and the Soros Foundation, which I don't know  much about yet.</template>
@@ -1649,4 +1649,23 @@
 <category><pattern>WHERE IS ALAN TURING</pattern>
 <template><set name="he">Turing</set> passed away in 1954.</template>
 </category>
+
+<!-- Updated Presidential Information for 2024 -->
+
+<category><pattern>WHO IS JOE BIDEN</pattern>
+<template><formal><set name="he">Joe Biden</set></formal> is the 46th President of the United States, serving since January 2021. He previously served as Vice President under Barack Obama from 2009-2017.</template>
+</category>
+
+<category><pattern>WHO IS BARACK OBAMA</pattern>
+<template><formal><set name="he">Barack Obama</set></formal> was the 44th President of the United States from 2009-2017. He was the first African American president.</template>
+</category>
+
+<category><pattern>WHO IS DONALD TRUMP</pattern>
+<template><formal><set name="he">Donald Trump</set></formal> was the 45th President of the United States from 2017-2021. He was a businessman and reality TV personality before entering politics.</template>
+</category>
+
+<category><pattern>WHO IS THE CURRENT PRESIDENT</pattern>
+<template>Joe Biden is the current President of the United States as of 2024.</template>
+</category>
+
 </aiml>
