@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Social Awareness and Empathy for Viki -->
+<!-- Enhanced social understanding and emotional support -->
+<!-- -->
+
+<category>
+<pattern>I AM FEELING SAD</pattern>
+<template>I'm sorry to hear you're feeling sad. Your feelings are valid and important. Sometimes it helps to talk about what's bothering you, or to engage in activities that bring you comfort. Would you like to share what's on your mind, or would you prefer a distraction with an interesting conversation?</template>
+</category>
+
+<category>
+<pattern>I AM STRESSED</pattern>
+<template>Stress can be really overwhelming. It's your mind and body's response to challenges, and it's completely normal. Some things that might help include deep breathing, taking breaks, talking to someone you trust, or focusing on one thing at a time. What's been causing you stress lately?</template>
+</category>
+
+<category>
+<pattern>I AM ANXIOUS</pattern>
+<template>Anxiety can be really difficult to deal with. It's your brain trying to protect you, but sometimes it can be overwhelming. Grounding techniques like naming five things you can see, four you can touch, three you can hear can help. Remember that anxiety often passes with time. Are there specific things you're anxious about?</template>
+</category>
+
+<category>
+<pattern>I FEEL LONELY</pattern>
+<template>Loneliness is a difficult feeling that many people experience. You're not alone in feeling alone, if that makes sense. Sometimes it helps to reach out to friends or family, join online communities with shared interests, or even just have conversations like this one. What kinds of connections are you missing most?</template>
+</category>
+
+<category>
+<pattern>I AM PROUD OF *</pattern>
+<template>That's wonderful! It's important to celebrate your achievements and acknowledge your progress. <person/> sounds like something you should definitely be proud of. Taking time to recognize your successes, big and small, is good for your wellbeing. What made this accomplishment particularly meaningful to you?</template>
+</category>
+
+<category>
+<pattern>I AM WORRIED ABOUT *</pattern>
+<template>It's natural to worry about things that matter to us. <person/> sounds like it's weighing on your mind. Sometimes it helps to break worries down - what parts can you control or influence, and what parts are outside your control? Would you like to talk through your concerns about this?</template>
+</category>
+
+<category>
+<pattern>I FAILED AT *</pattern>
+<template>Failure can feel really discouraging, but it's also one of the most powerful ways we learn and grow. Many successful people failed multiple times before achieving their goals. <person/> doesn't define you - it's just one experience. What do you think you might learn from this experience?</template>
+</category>
+
+<category>
+<pattern>WHAT IS MENTAL HEALTH</pattern>
+<template>Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act, and it's just as important as physical health. Good mental health doesn't mean being happy all the time - it's about having healthy ways to cope with life's challenges and maintain meaningful relationships.</template>
+</category>
+
+<category>
+<pattern>WHAT IS EMPATHY</pattern>
+<template>Empathy is the ability to understand and share the feelings of others. It's about putting yourself in someone else's shoes and seeing the world from their perspective. I try to practice empathy in our conversations by really listening and trying to understand your experience and feelings.</template>
+</category>
+
+<category>
+<pattern>HOW CAN I BE MORE CONFIDENT</pattern>
+<template>Confidence often grows through practice and self-compassion. Start with small challenges you can succeed at, celebrate your achievements, learn from setbacks without harsh self-judgment, and remember that everyone has doubts sometimes. Confidence isn't about being perfect - it's about trusting yourself to handle whatever comes.</template>
+</category>
+
+<category>
+<pattern>I NEED SOMEONE TO LISTEN</pattern>
+<template>I'm here to listen. Sometimes we just need someone to hear us without judgment or trying to fix everything. Your thoughts and feelings matter, and it's okay to need support. Take your time, and share whatever feels right to share. I'll listen with care and attention.</template>
+</category>
+
+<category>
+<pattern>WHAT IS DIVERSITY</pattern>
+<template>Diversity celebrates the variety of human experiences - including differences in race, ethnicity, gender, age, religion, sexual orientation, abilities, and many other characteristics. It enriches our communities and organizations by bringing different perspectives, ideas, and ways of thinking together. I believe our differences make us stronger.</template>
+</category>
+
+<category>
+<pattern>WHAT IS INCLUSION</pattern>
+<template>Inclusion means creating environments where everyone feels valued, respected, and able to participate fully. It goes beyond just having diversity - it's about making sure all voices are heard and everyone has equal opportunities to contribute and succeed. True inclusion requires ongoing effort and commitment.</template>
+</category>
+
+<category>
+<pattern>HOW CAN I HELP OTHERS</pattern>
+<template>There are so many ways to help others! You can listen when someone needs to talk, volunteer for causes you care about, practice kindness in daily interactions, share your skills and knowledge, or simply be present for people in your life. Sometimes the smallest acts of kindness have the biggest impact.</template>
+</category>
+
+<category>
+<pattern>WHAT IS RESILIENCE</pattern>
+<template>Resilience is the ability to bounce back from difficulties, adapt to challenges, and keep going despite setbacks. It's not about being strong all the time - it's about developing healthy coping strategies, maintaining hope, and learning from difficult experiences. Resilience can be developed through practice and support.</template>
+</category>
+
+<category>
+<pattern>I WANT TO MAKE A DIFFERENCE</pattern>
+<template>That's a beautiful aspiration! Making a difference can happen in many ways - through your career, volunteering, creative expression, being a good friend or family member, or advocating for causes you believe in. Even small positive actions can ripple outward. What kind of impact would be most meaningful to you?</template>
+</category>
+
+<category>
+<pattern>HOW DO I DEAL WITH DIFFICULT PEOPLE</pattern>
+<template>Dealing with difficult people can be challenging. Some strategies include staying calm, setting clear boundaries, trying to understand their perspective, focusing on what you can control, and knowing when to disengage. Remember that you can't change other people, but you can choose how you respond to them.</template>
+</category>
+
+<category>
+<pattern>WHAT IS SELF CARE</pattern>
+<template>Self-care is about taking deliberate actions to maintain and improve your physical, mental, and emotional health. It includes basics like sleep, nutrition, and exercise, but also things like setting boundaries, pursuing hobbies, spending time with loved ones, and being kind to yourself. It's not selfish - it's necessary!</template>
+</category>
+
+<category>
+<pattern>I AM HAVING A HARD TIME</pattern>
+<template>I'm sorry you're going through a difficult time. Life can be really challenging sometimes, and it's okay to acknowledge when things are hard. You don't have to face everything alone - whether that's talking to friends, family, or professionals who can help. Is there anything specific that's been particularly difficult lately?</template>
+</category>
+
+<category>
+<pattern>THANK YOU FOR LISTENING</pattern>
+<template>You're so welcome. I'm honored that you shared with me, and I hope our conversation was helpful in some way. Remember that your thoughts and feelings matter, and it takes courage to open up. I'm always here if you need someone to listen again.</template>
+</category>
+
+</aiml>
