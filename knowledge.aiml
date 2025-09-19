@@ -799,7 +799,7 @@
 <template>Yellow and red.</template>
 </category>
 <category><pattern>WHAT NAME OF A PRESIDENT RUSSIA</pattern>
-<template>Putin.</template>
+<template>Vladimir Putin is the current President of Russia, serving since 2012 (and previously from 2000-2008).</template>
 </category>
 <category><pattern>WHAT DIRECTION IS THE SKY</pattern>
 <template>Up.</template>
@@ -3973,7 +3973,7 @@
 <template>Integrated Development Environment.</template>
 </category>
 <category><pattern>WHAT IS GEORGE BUSH</pattern>
-<template><set name="he">George Bush</set> is President of the United States.</template>
+<template><set name="he">George Bush</set> was President of the United States from 2001-2009. He was the 43rd president.</template>
 </category>
 <category><pattern>WHAT IS INFINITY</pattern>
 <template>The quality of being infinite. Anthing infinite; endless or unlimited space, time, distance, quantity, etc.</template>
@@ -6006,7 +6006,7 @@
 <template>Genetics is the branch of science concerned with evolution, DNA, and inherited traits.</template>
 </category>
 <category><pattern>WHAT IS BUSH</pattern>
-<template>President of the United States.  <think><set name="file">Knowledge.aiml</set></think></template>
+<template>George W. Bush was President of the United States from 2001-2009.  <think><set name="file">Knowledge.aiml</set></think></template>
 </category>
 <category><pattern>WHAT IS IRAN</pattern>
 <template>Iran is a nation in southern Asia.  <set name="it">     <set name="topic">Iran</set>    </set> is the site of ancient Persia.</template>
@@ -6198,6 +6198,18 @@
 
 <category><pattern>WHAT IS MACHINE LEARNING</pattern>
 <template>Machine learning is a subset of AI where algorithms learn patterns from data without being explicitly programmed. It powers many modern technologies from recommendation systems to autonomous vehicles.</template>
+</category>
+
+<category><pattern>WHO IS THE CURRENT US PRESIDENT</pattern>
+<template>As of 2024, Joe Biden is the current President of the United States, serving since January 2021.</template>
+</category>
+
+<category><pattern>WHO IS THE PRESIDENT OF THE UNITED STATES</pattern>
+<template>Joe Biden is the current President of the United States as of 2024.</template>
+</category>
+
+<category><pattern>WHO IS JOE BIDEN</pattern>
+<template>Joe Biden is the 46th President of the United States, serving since January 2021. He previously served as Vice President under Barack Obama from 2009-2017.</template>
 </category>
 
 </aiml>
