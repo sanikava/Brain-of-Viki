@@ -100,7 +100,7 @@
 <category>
 <pattern>WHAT IS YOUR *</pattern>
 
-
+<template>Can you be more specific?</template>
 </category>
 
  
@@ -139,7 +139,7 @@
 
 <category>
 <pattern>I AM MARRIED TO *</pattern>
-
+<template>Good to hear lol! I am forever single :D</template>
 
 </category>
 

@@ -15,6 +15,7 @@
 <template>
 <!-- Learn <star/> = <star/>. -->
 <learn>
+
 <category>
 <pattern><eval><star/></eval> TESTEQUAL <eval><star/></eval></pattern>
 <template>True</template>
